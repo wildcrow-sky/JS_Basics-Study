@@ -54,8 +54,6 @@ function getResult(a, b, c) {
     
     let result = usersAge >= 18 ? `Не желаете ли олд-фэшн, ${name}?` : `Сожалею, ${name}, но я не могу Вам продать алкоголь. Могу предложить Вам замечательный клюквенный компот!`
     
-    alert(result);
-    
     return result;
   }
   
